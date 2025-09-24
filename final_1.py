@@ -664,7 +664,7 @@ if st.button("💰 **Calculate Price**", type="primary", use_container_width=Tru
             dist_fee = distance_fee(distance_km)
 
             # 4️⃣ Handling fee (stairs + floors)
-            handling_fee = r * stair_minutes * (1 + floors_source + 1.2 * floors_dest)
+            handling_fee = r * stair_minutes * (1+ 1.3* floors_source + 1.6* floors_dest)
 
             # 5️⃣ Urgency multiplier
             urgency_mult = 1.5 if urgency == "URGENT/Express" else 1.0
@@ -675,7 +675,7 @@ if st.button("💰 **Calculate Price**", type="primary", use_container_width=Tru
          
             # Display results
             st.markdown("---")
-            st.markdown("## 📊 **Your Quote Results**")
+            st.markdown("## 📊 **Your Quote Resultss**")
             
             # Main price display
             st.markdown(f"""
