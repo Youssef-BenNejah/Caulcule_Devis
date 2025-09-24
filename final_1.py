@@ -479,7 +479,7 @@ with st.sidebar:
     st.markdown("""
     - **Small (12m³)**: €107.91
     - **Medium (20m³)**: €129.31  
-    - **Large (20m³+)**: €129.31 per 20m³
+    - **Large (20m³+)**: use the cheapest combination of 12 m³ and 20 m³ trucks
     """)
     
     st.markdown("### ⏰ Pricing Tiers")
