@@ -1,0 +1,2665 @@
+[{
+  "_id": {
+    "$oid": "6875107f8498435994c5734a"
+  },
+  "key": "fridge",
+  "label": "frigo max(70cm) de large",
+  "volume": 1.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5734b"
+  },
+  "key": "small_fridge",
+  "label": "petit frigo max(90cm) de haut",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5734c"
+  },
+  "key": "washing_machine",
+  "label": "lave-linge",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5734d"
+  },
+  "key": "dishwasher",
+  "label": "lave-vaisselle",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5734e"
+  },
+  "key": "dryer",
+  "label": "sèche-linge",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5734f"
+  },
+  "key": "table_less_6_people",
+  "label": "table < 6 personnes",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57350"
+  },
+  "key": "table_less_12_people",
+  "label": "table < 12 personnes",
+  "volume": 3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57351"
+  },
+  "key": "coffee_table",
+  "label": "table basse",
+  "volume": 0.7,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57352"
+  },
+  "key": "nightstand",
+  "label": "table de chevet",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57353"
+  },
+  "key": "painting_less_2_meters",
+  "label": "tableau < 2m",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57354"
+  },
+  "key": "painting_less_3_meters",
+  "label": "tableau < 3m",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57355"
+  },
+  "key": "2_seater_sofa",
+  "label": "canapé 2 places",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57356"
+  },
+  "key": "3_seater_sofa",
+  "label": "canapé 3 places",
+  "volume": 3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 150
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57357"
+  },
+  "key": "corner_sofa",
+  "label": "canapé d'angle",
+  "volume": 3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 180
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57358"
+  },
+  "key": "convertible_sofa",
+  "label": "canapé convertible",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 150
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57359"
+  },
+  "key": "double_mattress",
+  "label": "matelas double",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 90
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5735a"
+  },
+  "key": "single_mattress",
+  "label": "matelas simple",
+  "volume": 0.45,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5735b"
+  },
+  "key": "trunk",
+  "label": "malle",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5735c"
+  },
+  "key": "bike",
+  "label": "vélo",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5735d"
+  },
+  "key": "sport_bike",
+  "label": "vélo de sport",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5735e"
+  },
+  "key": "exercise_bike",
+  "label": "vélo d'appartement",
+  "volume": 0.7,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5735f"
+  },
+  "key": "childrens_bike",
+  "label": "vélo enfant",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57360"
+  },
+  "key": "carpet_less_2_meters",
+  "label": "tapis < 2m de long",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57361"
+  },
+  "key": "carpet_less_4_meters",
+  "label": "tapis < 4m de long",
+  "volume": 0.5,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57362"
+  },
+  "key": "folding_table",
+  "label": "table pliante",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57363"
+  },
+  "key": "crib",
+  "label": "lit bébé",
+  "volume": 0.67,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57364"
+  },
+  "key": "double_bed",
+  "label": "lit double (matelas + sommier)",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57365"
+  },
+  "key": "single_bed",
+  "label": "lit simple (matelas + sommier)",
+  "volume": 1.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57366"
+  },
+  "key": "mezzanine_single_bed",
+  "label": "lit mezzanine simple",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 200
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57367"
+  },
+  "key": "mezzanine_double_bed",
+  "label": "lit mezzanine double",
+  "volume": 3,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 300
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57368"
+  },
+  "key": "flight_case",
+  "label": "flight case",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57369"
+  },
+  "key": "wardrobe_1_door",
+  "label": "armoire 1 porte",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5736a"
+  },
+  "key": "wardrobe_2_doors",
+  "label": "armoire 2 portes",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 180
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5736b"
+  },
+  "key": "wardrobe_3_doors",
+  "label": "armoire 3 portes",
+  "volume": 3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 240
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5736c"
+  },
+  "key": "old_wardrobe",
+  "label": "armoire ancienne",
+  "volume": 3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 400
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5736d"
+  },
+  "key": "jar",
+  "label": "jarre",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5736e"
+  },
+  "key": "small_jar",
+  "label": "petite jarre",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5736f"
+  },
+  "key": "chair",
+  "label": "chaise",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57370"
+  },
+  "key": "folding_chair",
+  "label": "chaise pliante",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57371"
+  },
+  "key": "deck_chair",
+  "label": "chaise longue",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57372"
+  },
+  "key": "wheelchair",
+  "label": "chaise roulante",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57373"
+  },
+  "key": "case",
+  "label": "caisse",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57374"
+  },
+  "key": "heat_boiler_lt_100kg",
+  "label": "chaudière < 100kg",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57375"
+  },
+  "key": "shoe_rack",
+  "label": "meuble à chaussures",
+  "volume": 0.7,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57376"
+  },
+  "key": "kitchen_furniture",
+  "label": "meuble de cuisine",
+  "volume": 1.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57377"
+  },
+  "key": "tv_stand",
+  "label": "meuble tv",
+  "volume": 0.64,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57378"
+  },
+  "key": "bathroom_furniture",
+  "label": "meuble de salle de bain",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57379"
+  },
+  "key": "desk",
+  "label": "bureau",
+  "volume": 1.15,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5737a"
+  },
+  "key": "kids_desk",
+  "label": "bureau enfant",
+  "volume": 0.9,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5737b"
+  },
+  "key": "cutlery",
+  "label": "ménagère",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5737c"
+  },
+  "key": "stroller",
+  "label": "poussette",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5737d"
+  },
+  "key": "small_vase",
+  "label": "petit vase",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5737e"
+  },
+  "key": "cooker",
+  "label": "cuisinière",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5737f"
+  },
+  "key": "pillow",
+  "label": "coussin",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 6
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57380"
+  },
+  "key": "board_less_2_meters",
+  "label": "planche < 2m",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57381"
+  },
+  "key": "board_less_3_meters",
+  "label": "planche < 3m",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57382"
+  },
+  "key": "board_less_4_meters",
+  "label": "planche < 4m",
+  "volume": 0.8,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57383"
+  },
+  "key": "ironing_board",
+  "label": "planche à repasser",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57384"
+  },
+  "key": "plant_less_1_meter",
+  "label": "plante < 1m de haut",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57385"
+  },
+  "key": "plant_less_2_meter",
+  "label": "plante < 2m de haut",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57386"
+  },
+  "key": "box",
+  "label": "carton max(55x35x30cm)",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57387"
+  },
+  "key": "small_box",
+  "label": "petit carton max(31x30x20cm)",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 20
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57389"
+  },
+  "key": "medium_box",
+  "label": "colis standard",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 45
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5738a"
+  },
+  "key": "large_box",
+  "label": "grand carton max(60x45x45cm)",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 46
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5738b"
+  },
+  "key": "wardrobe_box",
+  "label": "carton penderie",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5738c"
+  },
+  "key": "console_table",
+  "label": "console",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5738d"
+  },
+  "key": "luggage",
+  "label": "bagage",
+  "volume": 0.38,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5738e"
+  },
+  "key": "carryon_bag",
+  "label": "bagage cabine",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5738f"
+  },
+  "key": "checked_baggage",
+  "label": "bagage soute",
+  "volume": 0.38,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 20
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57390"
+  },
+  "key": "bathtub",
+  "label": "baignoire",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 180
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57391"
+  },
+  "key": "package",
+  "label": "colis",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57392"
+  },
+  "key": "frame",
+  "label": "cadre",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57393"
+  },
+  "key": "box_of_books",
+  "label": "carton de livres max(35x30x30cm)",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57394"
+  },
+  "key": "sink",
+  "label": "evier",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57395"
+  },
+  "key": "shower",
+  "label": "douche",
+  "volume": 1.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57396"
+  },
+  "key": "computer",
+  "label": "ordinateur",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57397"
+  },
+  "key": "radiator",
+  "label": "radiateur",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57398"
+  },
+  "key": "freezer",
+  "label": "congélateur",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 90
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57399"
+  },
+  "key": "large_freezer",
+  "label": "grand congélateur",
+  "volume": 1.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5739a"
+  },
+  "key": "rowing_machine",
+  "label": "rameur",
+  "volume": 0.6,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 90
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5739b"
+  },
+  "key": "hoover",
+  "label": "aspirateur",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5739c"
+  },
+  "key": "tv",
+  "label": "tv",
+  "volume": 0.7,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5739d"
+  },
+  "key": "gas_cooker",
+  "label": "gazinière",
+  "volume": 0.6,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5739e"
+  },
+  "key": "bench",
+  "label": "banc",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5739f"
+  },
+  "key": "printer",
+  "label": "imprimante",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a0"
+  },
+  "key": "professionnal_printer",
+  "label": "imprimante multifonction",
+  "volume": 1.5,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a1"
+  },
+  "key": "floor_lamp",
+  "label": "lampadaire",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a2"
+  },
+  "key": "lamp",
+  "label": "lampe",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 20
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a3"
+  },
+  "key": "lamppost_lt_2m",
+  "label": "lampadaire < 2m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a4"
+  },
+  "key": "lamppost_lt_4m",
+  "label": "lampadaire < 4m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a5"
+  },
+  "key": "hifi_system",
+  "label": "hi-fi",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a6"
+  },
+  "key": "mirror",
+  "label": "miroir",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a7"
+  },
+  "key": "vase",
+  "label": "vase",
+  "volume": 0.15,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a8"
+  },
+  "key": "large_vase",
+  "label": "grand vase",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573a9"
+  },
+  "key": "suitcase",
+  "label": "valise",
+  "volume": 0.38,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 20
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573aa"
+  },
+  "key": "sculpture",
+  "label": "sculpture",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ab"
+  },
+  "key": "chandelier",
+  "label": "lustre",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ac"
+  },
+  "key": "scooter",
+  "label": "scooter",
+  "volume": 2,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ad"
+  },
+  "key": "beam_lt_3m",
+  "label": "poutre < 3m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ae"
+  },
+  "key": "beam_lt_4m",
+  "label": "poutre < 4m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573af"
+  },
+  "key": "dustbin",
+  "label": "poubelle",
+  "volume": 0.15,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b0"
+  },
+  "key": "carpet_roll_lt_2m",
+  "label": "rouleau de moquette < 2m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b1"
+  },
+  "key": "carpet_roll_lt_4m",
+  "label": "rouleau de moquette < 4m de long",
+  "volume": 1,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b2"
+  },
+  "key": "air_conditioner",
+  "label": "climatisation",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b3"
+  },
+  "key": "electrical_terminal",
+  "label": "borne electrique",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b4"
+  },
+  "key": "sideboard",
+  "label": "buffet",
+  "volume": 1.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 180
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b5"
+  },
+  "key": "screen",
+  "label": "écran",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b6"
+  },
+  "key": "oven",
+  "label": "four",
+  "volume": 0.6,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b7"
+  },
+  "key": "futon",
+  "label": "futon",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b8"
+  },
+  "key": "motorbike",
+  "label": "moto",
+  "volume": 1,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573b9"
+  },
+  "key": "tire",
+  "label": "pneu",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ba"
+  },
+  "key": "pouffe",
+  "label": "pouf",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573bb"
+  },
+  "key": "door",
+  "label": "porte",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573bc"
+  },
+  "key": "bag",
+  "label": "sac max 10kg",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573bd"
+  },
+  "key": "rubble_bag",
+  "label": "sac de gravats max 80kg",
+  "volume": 0.7,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573be"
+  },
+  "key": "ski",
+  "label": "ski",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573bf"
+  },
+  "key": "surfboard",
+  "label": "surf",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c0"
+  },
+  "key": "bags_20kg",
+  "label": "sacs de 20kg",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c1"
+  },
+  "key": "stall",
+  "label": "stand",
+  "volume": 0.96,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 180
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c2"
+  },
+  "key": "tubes_lt_2m",
+  "label": "tubes < 2m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c3"
+  },
+  "key": "round_table",
+  "label": "table ronde",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c4"
+  },
+  "key": "painting_less_4_meters",
+  "label": "tableau < 4m",
+  "volume": 0.2,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c5"
+  },
+  "key": "aquarium",
+  "label": "aquarium",
+  "volume": 0.6,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c6"
+  },
+  "key": "parasol",
+  "label": "parasol",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c7"
+  },
+  "key": "poster",
+  "label": "affiche",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c8"
+  },
+  "key": "cardboard_poster",
+  "label": "affiche en carton",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573c9"
+  },
+  "key": "basket",
+  "label": "panier",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ca"
+  },
+  "key": "christmas_tree_lt_2m",
+  "label": "sapin < 2m",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573cb"
+  },
+  "key": "christmas_tree_lt_4m",
+  "label": "sapin < 4m",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573cc"
+  },
+  "key": "fitness_machine",
+  "label": "appareil de musculation",
+  "volume": 0.9,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573cd"
+  },
+  "key": "battery",
+  "label": "batterie",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ce"
+  },
+  "key": "baby_foot",
+  "label": "baby-foot < 100kg",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573cf"
+  },
+  "key": "bookshelf",
+  "label": "bibliothèque",
+  "volume": 2.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 240
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d0"
+  },
+  "key": "kettle",
+  "label": "bouilloire",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 6
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d1"
+  },
+  "key": "shoe_box",
+  "label": "boîte à chaussures",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 6
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d2"
+  },
+  "key": "double_bedframe",
+  "label": "cadre de lit double",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d3"
+  },
+  "key": "single_bedframe",
+  "label": "cadre de lit simple",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d4"
+  },
+  "key": "sofa_bed",
+  "label": "clic-clac",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 150
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d5"
+  },
+  "key": "easel",
+  "label": "chevalet",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d6"
+  },
+  "key": "coffee_maker",
+  "label": "cafetière",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 6
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d7"
+  },
+  "key": "wine_cooler",
+  "label": "cave à vin",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d8"
+  },
+  "key": "helmet",
+  "label": "casque moto",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573d9"
+  },
+  "key": "bike_helmet",
+  "label": "casque vélo",
+  "volume": 0.15,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 6
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573da"
+  },
+  "key": "safe",
+  "label": "coffre",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573db"
+  },
+  "key": "heater",
+  "label": "chauffage",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573dc"
+  },
+  "key": "dressing_table",
+  "label": "coiffeuse",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573dd"
+  },
+  "key": "column_lt_2m",
+  "label": "colonne < 2m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573de"
+  },
+  "key": "column_lt_4m",
+  "label": "colonne < 4m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573df"
+  },
+  "key": "kitchen_trolley",
+  "label": "desserte",
+  "volume": 0.75,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e0"
+  },
+  "key": "dressing",
+  "label": "dressing",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e1"
+  },
+  "key": "podium_lt_2m",
+  "label": "podium < 2m de haut",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e2"
+  },
+  "key": "toy_tea_set",
+  "label": "dinette pour enfant",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e3"
+  },
+  "key": "stepladder",
+  "label": "escabeau",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e4"
+  },
+  "key": "bulky_item",
+  "label": "encombrant",
+  "volume": 0.8,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e5"
+  },
+  "key": "ladder",
+  "label": "echelle",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e6"
+  },
+  "key": "speaker",
+  "label": "enceinte",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e7"
+  },
+  "key": "drying_rack",
+  "label": "etendage",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e8"
+  },
+  "key": "cupboard",
+  "label": "enfilade",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573e9"
+  },
+  "key": "armchair",
+  "label": "fauteuil",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ea"
+  },
+  "key": "pinball_machine",
+  "label": "flipper < 100 kg",
+  "volume": 2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573eb"
+  },
+  "key": "guitar",
+  "label": "guitare",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ec"
+  },
+  "key": "pedestal_table",
+  "label": "guéridon",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ed"
+  },
+  "key": "large_kitchen_counter",
+  "label": "grand plan de travail",
+  "volume": 1,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ee"
+  },
+  "key": "halogen",
+  "label": "halogène",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ef"
+  },
+  "key": "showcase",
+  "label": "vitrine",
+  "volume": 2.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 180
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f0"
+  },
+  "key": "roll-up",
+  "label": "kakémono / roll-up",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f1"
+  },
+  "key": "skateboard",
+  "label": "skate",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f2"
+  },
+  "key": "light",
+  "label": "lumière",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f3"
+  },
+  "key": "luminaire",
+  "label": "luminaire",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f4"
+  },
+  "key": "dummy",
+  "label": "mannequin",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f5"
+  },
+  "key": "coffee_machine",
+  "label": "machine à café",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f6"
+  },
+  "key": "microwave",
+  "label": "micro-ondes",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 40
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f7"
+  },
+  "key": "meridian_sofa",
+  "label": "méridienne",
+  "volume": 1.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 90
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f8"
+  },
+  "key": "bill_board",
+  "label": "panneau",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573f9"
+  },
+  "key": "pottery",
+  "label": "poterie",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 72
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573fa"
+  },
+  "key": "pole_lt_3m",
+  "label": "poteaux < 3m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573fb"
+  },
+  "key": "pole_lt_4m",
+  "label": "poteaux < 4m de long",
+  "volume": 1,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573fc"
+  },
+  "key": "projector",
+  "label": "projecteur",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573fd"
+  },
+  "key": "closet",
+  "label": "penderie",
+  "volume": 1.82,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 140
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573fe"
+  },
+  "key": "speaker_stand",
+  "label": "pied d'enceinte",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c573ff"
+  },
+  "key": "carpet_roll",
+  "label": "rouleau de moquette",
+  "volume": 0.75,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 100
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57400"
+  },
+  "key": "snowboard",
+  "label": "snowboard",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57401"
+  },
+  "key": "secretary_desk",
+  "label": "secrétaire",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57402"
+  },
+  "key": "baby_seat",
+  "label": "siège bébé",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57403"
+  },
+  "key": "synthesizer",
+  "label": "synthétiseur",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57404"
+  },
+  "key": "seat",
+  "label": "siège",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57405"
+  },
+  "key": "office_chair",
+  "label": "siège de bureau",
+  "volume": 0.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57406"
+  },
+  "key": "high_baby_seat",
+  "label": "siège haut bébé",
+  "volume": 0.4,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57407"
+  },
+  "key": "double_bed_frame",
+  "label": "sommier double",
+  "volume": 0.96,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57408"
+  },
+  "key": "single_bed_frame",
+  "label": "sommier simple",
+  "volume": 0.54,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": true,
+  "stairTime": 50
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57409"
+  },
+  "key": "stele_lt_2m_lt_20kg",
+  "label": "stèle < 2m de haut < 20kg",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5740a"
+  },
+  "key": "stele_lt_4m_lt_50kg",
+  "label": "stèle < 4m de haut < 50kg",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5740b"
+  },
+  "key": "statue_less_1_meter",
+  "label": "statue < 1m de haut",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 80
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5740c"
+  },
+  "key": "statue_less_2_meters",
+  "label": "statue < 2m de haut",
+  "volume": 1.5,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 160
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5740d"
+  },
+  "key": "tubes_gt_2m",
+  "label": "tubes > 2m de long",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5740e"
+  },
+  "key": "very_small_box",
+  "label": "très petit carton max(31x30x20cm)",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 20
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c5740f"
+  },
+  "key": "trestle",
+  "label": "tréteaux",
+  "volume": 0.13,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57410"
+  },
+  "key": "battens_lt_2m",
+  "label": "tasseaux < 2m",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57411"
+  },
+  "key": "battens_lt_4m",
+  "label": "tasseaux < 4m",
+  "volume": 1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 120
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57412"
+  },
+  "key": "bed_headboard",
+  "label": "tête de lit",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 70
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57413"
+  },
+  "key": "delivery_tricycle",
+  "label": "triporteur",
+  "volume": 4,
+  "min_truck_size": 20,
+  "banned": false,
+  "elevator": false,
+  "two_people": true,
+  "stairTime": 300
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57414"
+  },
+  "key": "stool",
+  "label": "tabouret",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 30
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57415"
+  },
+  "key": "curtain_rod",
+  "label": "tringle à rideau",
+  "volume": 0.1,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": false,
+  "two_people": false,
+  "stairTime": 10
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57416"
+  },
+  "key": "fan",
+  "label": "ventilateur",
+  "volume": 0.2,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 20
+},
+{
+  "_id": {
+    "$oid": "6875107f8498435994c57417"
+  },
+  "key": "video_projector",
+  "label": "vidéoprojecteur",
+  "volume": 0.3,
+  "min_truck_size": 12,
+  "banned": false,
+  "elevator": true,
+  "two_people": false,
+  "stairTime": 60
+}]
