@@ -672,11 +672,7 @@ if st.button("💰 **Calculate Price**", type="primary", use_container_width=Tru
             # 6️⃣ Total price
             total_price = urgency_mult * (base_truck_fee + dist_fee + handling_fee)
             
-            st.info(f"======================>{r * stair_minutes}")
-
-           
-
-            
+         
             # Display results
             st.markdown("---")
             st.markdown("## 📊 **Your Quote Results**")
